@@ -36,7 +36,7 @@ chat-app/
 
 ---
 
-## ⚙️ Teknologi
+##  Teknologi
 
 - **Runtime:** Node.js v20+
 - **HTTP Server:** Express.js v4
@@ -45,7 +45,7 @@ chat-app/
 
 ---
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 
 ### 1. Install Dependencies
 ```bash
@@ -66,7 +66,7 @@ Buka browser → **http://localhost:3001**
 
 ---
 
-## 📊 Hasil Eksperimen
+##  Hasil Eksperimen
 
 | Parameter | HTTP Polling | WebSocket |
 |---|---|---|
