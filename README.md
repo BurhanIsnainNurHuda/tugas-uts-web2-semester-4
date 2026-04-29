@@ -1,5 +1,11 @@
 # tugas-uts-web2-semester-4
 
+    Nama: Burhan Isnain Nur Huda  
+    NIM: 312410226  
+    Kelas: I241B 
+    Mata Kuliah: Pemrograman Web 2
+    WebSocket vs HTTP Polling — Eksperimen Chat Real-Time
+
 #  WebSocket vs HTTP Polling — Eksperimen Chat Real-Time
 
 > **Tugas UTS Pemrograman Web**  
